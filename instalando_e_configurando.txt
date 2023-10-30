@@ -1,0 +1,5 @@
+Ao baixo o git no site oficial precisamos no terminal definir configurações importantes como: "user.name" e o "user.email".
+  git config --global user.name "nome"
+  git config --global user.email "email"
+
+  as flags ao invés de --global podem ser --local configurando as propriedades para um trablho local ao invés de global.

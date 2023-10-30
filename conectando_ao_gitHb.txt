@@ -1,0 +1,3 @@
+Para conectar o nosso repostiório local com um remoto na "rede" precisamos do comando 
+git remote add origin "https://......"
+esse comando conecta a nosso repositório local .git com um repositório remoto na rede.

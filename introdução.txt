@@ -1,0 +1,1 @@
+O GIT é uma ferramenta que nos permite através da sua estrutura de repostiório acompanhar as alterações e novas versões dos nossos arquivos. Com ele podemos trabalhar de uma forma mais colaborativa, aonde várias pessoas podem trabahar no mesmos, facilitando assim a organização desse trabalho.

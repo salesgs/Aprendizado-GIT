@@ -1,0 +1,10 @@
+Branchs 
+  São ramos de desenvolvimento isolados do ramo principal "master". Tem como principal conceito ter funcionalidades contidas que se diferem do ramo principal "master". Exemplo branchs de conexão ao banco de dados, conexão API etc.. Esses ramos podem se mesclar ao ramo principal trazendo assim para o ramo principal as alterações que ele não possuem. O ramo destinto do principal não sofre alterações, somente o ramo principal.
+
+  criando branch 
+  
+  Criando e naveganto 
+ Criando e navegando para o ramo criado: git checkou -b novaBranch  
+
+  Navegando entre branhcs
+  Navegando para o ramo principal: git checkout master
